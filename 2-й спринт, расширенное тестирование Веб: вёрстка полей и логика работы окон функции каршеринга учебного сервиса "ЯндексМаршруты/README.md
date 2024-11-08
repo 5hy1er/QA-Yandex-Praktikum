@@ -18,7 +18,8 @@
 - Все баги были задокументированы в [YouTrack](https://youtrack.example.com/your-project) и включены в таблицу результатов тестирования.
 
 ## Скриншоты и макеты
-  ![Скриншот превью тарифа](images/route.png)
+  ![Скриншот превью тарифа](images/form.png)
+  <img src="images/mindmap1.jpg" alt="Описание изображения" width="500" height="auto">
   ![Скриншот окна добавления прав](images/adding_prava.png)
   ![Скриншот окна добавления карты](images/adding_card.png)
   ![Скриншот окна выбора маршрута](images/route.png)
