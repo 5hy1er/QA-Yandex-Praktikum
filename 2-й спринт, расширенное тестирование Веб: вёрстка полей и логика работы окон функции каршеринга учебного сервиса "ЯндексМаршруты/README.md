@@ -18,12 +18,13 @@
 - Все баги были задокументированы в [YouTrack](https://youtrack.example.com/your-project) и включены в таблицу результатов тестирования.
 
 ## Скриншоты и макеты
+- вёрстка полей бронирования и элементов навигационной карты
   ![Скриншот превью тарифа](images/form.png)
+- [Майнд-карта Miro Поле “Способ оплаты” и Окно “Добавление карты”](https://miro.com/app/board/uXjVKGHQT9Y=/?share_link_id=284352115407)
   <img src="images/mindmap1.jpg" alt="Описание изображения" width="500" height="auto">
-  ![Скриншот окна добавления прав](images/adding_prava.png)
-  ![Скриншот окна добавления карты](images/adding_card.png)
-  ![Скриншот окна выбора маршрута](images/route.png)
-
+  
+- [Майнд-карта Miro логика кнопки "забронировать"](https://miro.com/app/board/uXjVKLTV4bU=/?share_link_id=841047498669)
+  <img src="images/mindmap2.jpg" alt="Описание изображения" width="500" height="auto">
 ## Инструменты и технологии
 - Google Sheets для ведения тест-кейсов и чек-листов
 - YouTrack для заведения багов
