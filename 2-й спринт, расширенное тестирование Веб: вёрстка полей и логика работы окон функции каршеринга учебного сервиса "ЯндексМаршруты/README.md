@@ -14,18 +14,19 @@
 
 ### Документация тестирования
 - [Чек-листы и тест-кейсы в Google Sheets](https://docs.google.com/spreadsheets/d/1YeSfuql84nXHkQjYW_UmI9da_rHDo7rzq4yPTS8c7C0/edit?usp=sharing) — включает чек-листы на вёрстку и логику окон, тест-кейсы на кнопку "Забронировать".
-
-### Баг-репорты
-- Все баги были задокументированы в [YouTrack](https://youtrack.example.com/your-project) и включены в таблицу результатов тестирования.
-
-## Скриншоты и материалы
-- вёрстка полей бронирования и элементов навигационной карты
-  ![Скриншот превью тарифа](images/form.png)
 - [Майнд-карта Miro Поле “Способ оплаты” и Окно “Добавление карты”](https://miro.com/app/board/uXjVKGHQT9Y=/?share_link_id=284352115407)
   <img src="images/mindmap1.jpg" alt="Описание изображения" width="600" height="auto">
   
 - [Майнд-карта Miro логика кнопки "забронировать"](https://miro.com/app/board/uXjVKLTV4bU=/?share_link_id=841047498669)
   <img src="images/mindmap2.jpg" alt="Описание изображения" width="600" height="auto">
+
+### Баг-репорты
+- Все баги были задокументированы в [YouTrack](https://youtrack.example.com/your-project) и включены в таблицу результатов тестирования.
+
+## Скриншоты
+- вёрстка полей бронирования и элементов навигационной карты
+  ![Скриншот превью тарифа](images/form.png)
+
 ## Инструменты и технологии
 - Google Sheets для ведения тест-кейсов и чек-листов
 - Miro для майндмэпинга
