@@ -13,7 +13,7 @@
 
 ### Документация тестирования
 - [Чек-лист функционального и регрессионного тестирования](https://docs.google.com/spreadsheets/d/1zpjzGJOg4_5Ps90ouBt9k1ygJsfwFz9MvLFM2DIEsGk/edit?usp=sharing) — проверка измененной функциональности, проверка взаимодействия с устройством и общие проверки для мобильных приложений.
-- [Майндмэп анализа требований](https://miro.com/app/board/uXjVK5URgfA=/) — визуализация ключевых требований и их связей.
+- [Майндмэп анализа требований в Miro](https://miro.com/app/board/uXjVK5URgfA=/) — визуализация ключевых требований и их связей.
 - [Отчет о тестировании](https://docs.google.com/document/d/1s36XX0WzhGuxRfltx7HY-dxnZW8yrfCR9q18SaGT0jQ/edit?usp=sharing) — итоговый отчет с результатами тестов и рекомендациями.
 
 ### Баг-репорты
