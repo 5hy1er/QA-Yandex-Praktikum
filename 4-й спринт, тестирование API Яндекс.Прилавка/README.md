@@ -35,10 +35,12 @@
 ---
 
 ## Инструменты и технологии  
-- **Postman** — для тестирования API.  
-- **YouTrack** — для регистрации багов.  
-- **Google Sheets** — для чек-листа.
-- **Apidoc** — документация к API 
+![API Testing](https://img.shields.io/badge/-API%20Testing-orange?style=for-the-badge&logo=api&logoColor=white)
+![Postman](https://img.shields.io/badge/-Postman-f76935?style=for-the-badge&logo=postman&logoColor=white)  
+![Bug Reporting](https://img.shields.io/badge/-Bug%20Reporting-red?style=for-the-badge&logo=bug&logoColor=white)
+![YouTrack](https://img.shields.io/badge/-YouTrack-0062CC?style=for-the-badge&logo=jetbrains&logoColor=white)
+![Google Sheets](https://img.shields.io/badge/-Google%20Sheets-34A853?style=for-the-badge&logo=googlesheets&logoColor=white)  
+![Apidoc](https://img.shields.io/badge/-Apidoc-005C99?style=for-the-badge&logo=readthedocs&logoColor=white)
 
 ---
 
