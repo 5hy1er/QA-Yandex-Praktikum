@@ -28,9 +28,11 @@
   <img src="images/YMetro_route.png" alt="Экран выбора маршрута" width="200" height="auto">
 
 ## Инструменты и технологии
-- **YouTrack** — для заведения и классификации багов.
-- **Google Sheets** — для создания чек-листов и хранения результатов тестирования.
-- **Android Studio** — эмулятор для тестирования на конфигурации Honor 8, Android 9.0 Pie (1080x1920).
+![Bug Reporting](https://img.shields.io/badge/-Bug%20Reporting-red?style=for-the-badge&logo=bug&logoColor=white)
+![YouTrack](https://img.shields.io/badge/-YouTrack-0062CC?style=for-the-badge&logo=jetbrains&logoColor=white)
+![Google Sheets](https://img.shields.io/badge/-Google%20Sheets-34A853?style=for-the-badge&logo=googlesheets&logoColor=white)  
+![Emulation](https://img.shields.io/badge/-Emulation-grey?style=for-the-badge&logo=android&logoColor=white)
+![Android Studio](https://img.shields.io/badge/-Android%20Studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white)
 
 ## Тестовое окружение
 Тестирование проводилось на следующей конфигурации:
