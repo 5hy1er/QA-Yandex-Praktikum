@@ -20,9 +20,9 @@
 - Проведение тестирования мобильного приложения и регистрация дефектов.  
 
 ### Задание 3: API Яндекс.Самокат  
-- Изучение требований к API и доступной документации.  
+- Изучение требований к API в Apidoc.  
 - Проектирование чек-листа для тестирования API по требованиям.  
-- Проведение тестирования API и регистрация найденных дефектов.  
+- Проведение тестирования API в Postman и регистрация найденных дефектов.  
 
 ---
 
@@ -43,11 +43,16 @@
 ---
 
 ## Инструменты и технологии  
-- **Postman** — для тестирования API.  
-- **YouTrack** — для регистрации багов.  
-- **Google Sheets** — для чек-листов и таблиц валидации.  
-- **Figma** — для проверки верстки.  
-- **Android Studio** — для эмуляции мобильного приложения.  
+![API Testing](https://img.shields.io/badge/-API%20Testing-orange?style=for-the-badge&logo=api&logoColor=white)
+![Postman](https://img.shields.io/badge/-Postman-f76935?style=for-the-badge&logo=postman&logoColor=white)
+![Bug Reporting](https://img.shields.io/badge/-Bug%20Reporting-red?style=for-the-badge&logo=bug&logoColor=white)
+![YouTrack](https://img.shields.io/badge/-YouTrack-0062CC?style=for-the-badge&logo=jetbrains&logoColor=white)
+![Google Sheets](https://img.shields.io/badge/-Google%20Sheets-34A853?style=for-the-badge&logo=googlesheets&logoColor=white)  
+![UI/UX Testing](https://img.shields.io/badge/-UI/UX%20Testing-purple?style=for-the-badge&logo=figma&logoColor=white)
+![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Emulation](https://img.shields.io/badge/-Emulation-grey?style=for-the-badge&logo=android&logoColor=white)
+![Android Studio](https://img.shields.io/badge/-Android%20Studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white)
+![Apidoc](https://img.shields.io/badge/-Apidoc-005C99?style=for-the-badge&logo=readthedocs&logoColor=white)
 
 ---
 
