@@ -28,7 +28,9 @@
   - `POST /fast-delivery/v3.1.1/calculate-delivery.xml`  
   - `GET /api/v1/orders/:id`  
   - `PUT /api/v1/orders/:id`  
-  - `DELETE /api/v1/orders/:id`  
+  - `DELETE /api/v1/orders/:id`
+ 
+<img src="images/API_collection_4sprint.png" alt="Экран выбора маршрута" width="800" height="auto">  
 
 ### 🐞 [Баг-репорты в YouTrack](https://gospodarsky.youtrack.cloud/dashboard?id=529-4)
 
