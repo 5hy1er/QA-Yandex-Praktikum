@@ -30,9 +30,15 @@
 ## Инструменты и технологии
 ![Bug Reporting](https://img.shields.io/badge/-Bug%20Reporting-red?style=for-the-badge&logo=bug&logoColor=white)
 ![YouTrack](https://img.shields.io/badge/-YouTrack-0062CC?style=for-the-badge&logo=jetbrains&logoColor=white)
-![Google Sheets](https://img.shields.io/badge/-Google%20Sheets-34A853?style=for-the-badge&logo=googlesheets&logoColor=white)  
+![Google Sheets](https://img.shields.io/badge/-Google%20Sheets-34A853?style=for-the-badge&logo=googlesheets&logoColor=white)
 ![Emulation](https://img.shields.io/badge/-Emulation-grey?style=for-the-badge&logo=android&logoColor=white)
 ![Android Studio](https://img.shields.io/badge/-Android%20Studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white)
+![UI/UX Testing](https://img.shields.io/badge/-UI/UX%20Testing-purple?style=for-the-badge&logo=figma&logoColor=white)
+![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+![Responsive Testing](https://img.shields.io/badge/-Responsive%20Testing-lightblue?style=for-the-badge&logo=responsive&logoColor=white)
+![Test Design Techniques](https://img.shields.io/badge/-Test%20Design%20Techniques-ffb900?style=for-the-badge&logo=knowledgebase&logoColor=white)
+![Mindmapping](https://img.shields.io/badge/-Mindmapping-yellowgreen?style=for-the-badge&logo=brain&logoColor=white)
+![Miro](https://img.shields.io/badge/-Miro-FFD02F?style=for-the-badge&logo=miro&logoColor=black)
 
 ## Тестовое окружение
 Тестирование проводилось на следующей конфигурации:
