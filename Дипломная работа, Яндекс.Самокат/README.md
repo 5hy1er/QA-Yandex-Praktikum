@@ -13,9 +13,9 @@
 - Проведение тестирования функциональности по чек-листам, таблице валидации и требованиям.  
 - Заведение багов, найденных как по тестовой документации, так и вне её.
 
-<img src="images/futer.png" alt="Основное окно приложения" width="600" height="auto">
-
-<img src="images/order_status.png" alt="Экран выбора маршрута" width="450" height="auto"><img src="images/validation.png" alt="Экран выбора маршрута" width="450" height="auto">
+<img src="images/futer.png" alt="Основное окно приложения" width="900" height="auto">
+<img src="images/order_status.png" alt="Экран выбора маршрута" width="900" height="auto">
+<img src="images/validation.png" alt="Экран выбора маршрута" width="900" height="auto">
 
 ### Задание 2: Мобильное приложение Яндекс.Самокат  
 - Анализ требований к мобильному приложению для курьеров.  
@@ -23,7 +23,7 @@
 - Проверка верстки по макетам в Figma.  
 - Проведение тестирования мобильного приложения и регистрация дефектов.
 
-<img src="images/orderes_list.png" alt="Основное окно приложения" width="300" height="auto"> <img src="images//connection_error.png" alt="Экран выбора маршрута" width="300" height="auto">
+<img src="images/orderes_list.png" alt="Основное окно приложения" width="250" height="auto"> <img src="images//connection_error.png" alt="Экран выбора маршрута" width="300" height="auto">
 
 <img src="images/notification.png" alt="Экран выбора маршрута" width="300" height="auto">
 
